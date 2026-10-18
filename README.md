@@ -48,3 +48,6 @@ You can also open the project in VS Code or IntelliJ IDEA and run `SwingAssignme
 - `docs/` — assignment documentation
 - `out/` — compiled class files if generated locally
 
+License
+
+MIT — see LICENSE.
