@@ -48,8 +48,3 @@ You can also open the project in VS Code or IntelliJ IDEA and run `SwingAssignme
 - `docs/` — assignment documentation
 - `out/` — compiled class files if generated locally
 
-### Submission
-
-The documentation includes the wireframe and a screenshot of the running application.
-
-If the lecturer requires GitHub, create a repository, upload the contents of this folder, and add the lecturer as a collaborator using GitHub's repository settings.
