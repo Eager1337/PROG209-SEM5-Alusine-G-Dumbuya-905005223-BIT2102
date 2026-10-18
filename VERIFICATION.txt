@@ -1,0 +1,3 @@
+Compilation check passed successfully with javac.
+
+The project contains the source code, wireframe, runtime screenshot, README and documentation.
